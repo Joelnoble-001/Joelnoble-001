@@ -39,3 +39,11 @@ My ultimate goal is to **design and engineer systems that enhance efficiency, ac
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+
+## 🔗 Let's Connect
+
+- 📫 **Email**: joelodunoye@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/joelodunoye](https://www.linkedin.com/in/joelodunoye/)  
+
+---
